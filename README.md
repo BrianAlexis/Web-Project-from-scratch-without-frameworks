@@ -1,6 +1,6 @@
-# What is this project?
+# What is this project about?
 
-This project is based on learning how the COMPONENTS of React work. I made a basic page with HTML and CSS (later in the project I will use TailwindCSS) but what I focused most on in the project was understanding how the logic behind the creation of the React COMPONENTS works. This project is made with vanilla JS and with a single dependency called json-server to simulate a JSON API to bring all my data from.
+This project is based on learning how the COMPONENTS of React work. I made a basic page with HTML and CSS (later in the project I will use TailwindCSS) but what I focused most on this project was understanding how the logic behind the creation of the React COMPONENTS works. This project is made with vanilla JS and with a single dependency called json-server to simulate a JSON API to bring all my data from.
 
 
 ## Project initialization
