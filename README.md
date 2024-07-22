@@ -14,3 +14,13 @@ After that we are going to initializing the API with:
 ```bash
   npx json-server data/data.json
 ```
+## 🚀 About Me
+👋 Hello! I am Brian and i am a Front-End developer from Buenos Aires, Argentina with 3 years of experience on the web. I am constantly updating myself and learning new standards and technologies.
+
+
+## 🛠 Skills
+My skills are HTML, CSS (SASS, and frameworks like Bookstrap 5, ChakraUI and TailwindCSS), JavaScript, Node.js, React, Git and Github. My english level is B2.
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-alexis-acu%C3%B1a-31b7571b6//)
